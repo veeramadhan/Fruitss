@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "names": "Apple",
+      "benifit": "Apples provide a host of benefits for your health. Packed with fiber and antioxidants, they support heart health by lowering cholesterol and aiding digestion. Their natural sugars are balanced by fiber, helping regulate blood sugar levels. With low calories and high water content, apples are great for weight management and hydration. Rich in nutrients like vitamin C and quercetin, they contribute to bone health, antioxidant protection, and even brain health. Regular consumption may also lower the risk of chronic diseases, making apples a smart and delicious addition to your diet.",
+      "image": "https://images.pexels.com/photos/7214602/pexels-photo-7214602.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 2,
+      "names": "Mango",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"https://images.pexels.com/photos/7641473/pexels-photo-7641473.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 3,
+      "names": "Water Melon",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"https://images.pexels.com/photos/2894205/pexels-photo-2894205.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+    ,
+    {
+      "id": 4,
+      "names": "StrawBerry",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"https://images.pexels.com/photos/4908011/pexels-photo-4908011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+    }
+    ,
+    {
+      "id": 5,
+      "names": "Banana",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"https://images.pexels.com/photos/13211456/pexels-photo-13211456.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+    ,
+    {
+      "id": 3,
+      "names": "Graphes",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"https://images.pexels.com/photos/760281/pexels-photo-760281.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+    ,
+    {
+      "id": 13,
+      "names": "Apple",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"../assets/pictures/apple.jpg"
+    },
+    {
+      "id": 13,
+      "names": "Orange",
+      "benifit": "Mangoes offer a wealth of benefits, including supporting immune health, promoting healthy skin, aiding digestion, and contributing to heart health.",
+      "image":"../assets/pictures/orange.jpg"
+    }
+  ]
