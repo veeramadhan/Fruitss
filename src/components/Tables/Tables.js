@@ -7,7 +7,7 @@ function DarkExample() {
     const[name,setName]=useState([])
     const[search,setSearch]=useState(name)
     
-    const url="../fruit/public/assets/pictures"
+    
     
     const handleChange=(event)=>{
         setSearch(name.filter(val=>val.names.toLowerCase().includes(event.target.value)))
