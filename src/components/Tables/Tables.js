@@ -8,7 +8,6 @@ function DarkExample() {
     const[search,setSearch]=useState(name)
     
     
-    
     const handleChange=(event)=>{
         setSearch(name.filter(val=>val.names.toLowerCase().includes(event.target.value)))
     }
