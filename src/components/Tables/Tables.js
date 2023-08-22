@@ -27,7 +27,7 @@ function DarkExample() {
     </h1>
     <div className='tabl'>
          <label>Data:</label>
-   <input type="text" class="input-field" placeholder="Enter a input data" onChange={handleChange}/>
+   <input type="text" class="input-field" placeholder="Enter a Fruits name" onChange={handleChange}/>
     </div>
     </div>
     <Table striped bordered hover variant="dark">

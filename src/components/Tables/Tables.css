@@ -29,6 +29,7 @@ h1{
   font-family: 'REM', sans-serif;
   font-size: 2rem;
   width: 100%;
+  padding-top: 10px;
 }
 .container{
   background-color: rgba(126, 189, 244, 0.792);
