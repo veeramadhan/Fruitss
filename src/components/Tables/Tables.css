@@ -21,13 +21,19 @@
   font-family: 'REM', sans-serif;
   font-size: large;
   padding: 5px;
+  
 }
 
-center{
+h1{
   color: black;
   font-family: 'REM', sans-serif;
   font-size: 2rem;
+  width: 100%;
 }
 .container{
   background-color: rgba(126, 189, 244, 0.792);
+  display: flex;
+  min-width: 100% !important;
+
 }
+

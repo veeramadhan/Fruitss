@@ -22,9 +22,9 @@ function DarkExample() {
   return (
     <>
     <div className='container'>
-    <center>
+    <h1>
       Fruits Benifits
-    </center>
+    </h1>
     <div className='tabl'>
          <label>Data:</label>
    <input type="text" class="input-field" placeholder="Enter a input data" onChange={handleChange}/>

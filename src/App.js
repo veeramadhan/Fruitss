@@ -1,5 +1,5 @@
 import Tables from "../src/components/Tables/Tables"
-
+import "./app.css"
 
 function App() {
   return (
