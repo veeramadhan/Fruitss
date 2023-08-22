@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,500;0,800;1,500&family=Merriweather:wght@700&family=Noto+Serif:wght@500&family=Poppins:wght@500&family=REM:wght@500&family=Roboto+Condensed:wght@300&family=Roboto+Slab:wght@500;600&display=swap');
 
-
-
 .input-field {
   width: 300px;
   padding: 10px;
@@ -10,31 +8,36 @@
   font-size: 16px;
   outline: none;
   transition: border-color 0.3s ease;
-  background-color:rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
   color: black;
   font-family: 'REM', sans-serif;
-  
 }
 
-.tabl{
+.tabl {
   color: black;
   font-family: 'REM', sans-serif;
   font-size: large;
   padding: 5px;
-  
 }
 
-h1{
+h1 {
   color: black;
   font-family: 'REM', sans-serif;
   font-size: 2rem;
   width: 100%;
-  padding-top: 10px;
+  padding-top: 20px;
 }
-.container{
-  background-color: rgba(126, 189, 244, 0.792);
-  display: flex;
+
+.container {
+  background-color: rgba(255, 255, 255, 0.792);
   min-width: 100% !important;
-
+  display: flex;
 }
 
+/* Media Query for Phone Views */
+@media (max-width: 356px) {
+  .container {
+    width: 100%;
+    padding: 0 15px; /* Adding some padding to the sides for better spacing */
+  }
+}
