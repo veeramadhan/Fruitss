@@ -1,6 +1,7 @@
 import Table from 'react-bootstrap/Table';
 import { useState,useEffect} from 'react';
 import data from "./data.json"
+import "./Tables.css"
 
 function DarkExample() {
 
@@ -9,7 +10,8 @@ function DarkExample() {
     
     
     const handleChange=(event)=>{
-        setSearch(name.filter(val=>val.names.toLowerCase().includes(event.target.value)))
+      const searchTerm = event.target.value.toLowerCase();
+        setSearch(name.filter(val=>val.names.toUpperCase().toLowerCase().includes(searchTerm)))
     }
 
     useEffect(()=>{
@@ -19,9 +21,14 @@ function DarkExample() {
 
   return (
     <>
-    <div>
+    <div className='container'>
+    <center>
+      Fruits Benifits
+    </center>
+    <div className='tabl'>
          <label>Data:</label>
-   <input type="text" placeholder="Enter a input data" onChange={handleChange}/>
+   <input type="text" class="input-field" placeholder="Enter a input data" onChange={handleChange}/>
+    </div>
     </div>
     <Table striped bordered hover variant="dark">
 
