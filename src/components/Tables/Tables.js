@@ -37,7 +37,7 @@ function DarkExample() {
         <tr>
           <th>ID</th>
           <th>Fruits Name</th>
-          <th>Benifits</th>
+          <th>Benefits</th>
           <th>Image</th>
         </tr>
       </thead>
