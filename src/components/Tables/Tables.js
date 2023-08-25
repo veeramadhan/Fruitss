@@ -23,7 +23,7 @@ function DarkExample() {
     <>
     <div className='container'>
     <h1>
-      Fruits Benifits
+      Fruits Benefits
     </h1>
     <div className='tabl'>
          <label>Data:</label>
